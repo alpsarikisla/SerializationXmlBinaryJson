@@ -1,0 +1,11 @@
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\bin\Debug\SerilestirmeSerialization.exe.config
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\bin\Debug\SerilestirmeSerialization.exe
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\bin\Debug\SerilestirmeSerialization.pdb
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\obj\Debug\SerilestirmeSerialization.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\obj\Debug\SerilestirmeSerialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\obj\Debug\SerilestirmeSerialization.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\obj\Debug\SerilestirmeSerialization.exe
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\obj\Debug\SerilestirmeSerialization.pdb
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\303\source\repos\SerilestirmeSerialization\SerilestirmeSerialization\obj\Debug\SerilestirmeSerialization.csproj.CopyComplete
